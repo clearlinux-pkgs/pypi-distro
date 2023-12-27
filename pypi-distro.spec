@@ -7,7 +7,7 @@
 #
 Name     : pypi-distro
 Version  : 1.9.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/fc/f8/98eea607f65de6527f8a2e8885fc8015d3e6f5775df186e443e0964a11c3/distro-1.9.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/fc/f8/98eea607f65de6527f8a2e8885fc8015d3e6f5775df186e443e0964a11c3/distro-1.9.0.tar.gz
 Summary  : Distro - an OS platform information API
